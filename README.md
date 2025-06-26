@@ -12,7 +12,7 @@ This repository tracks my contributions to open-source projects — from small c
 
 ---
 
-## 🛠What's Next
+## What's Next
 
 - Exploring deeper contributions involving `Trainer`, evaluation logic, or model config extensions.
 - Targeting bug fixes or enhancements labeled `help wanted` for meaningful impact.
